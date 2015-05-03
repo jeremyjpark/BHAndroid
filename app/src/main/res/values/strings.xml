@@ -1,6 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">BHAndroid</string>
+    <string name="app_name">BearLair</string>
 
-    <string name="hello_world">Hello world!</string>
+    <string name="look_for_place">Look for a Place</string>
+    <string name="list_place">List a Place</string>
     <string name="action_settings">Settings</string>
 </resources>
